@@ -12,8 +12,10 @@ int main(int argc, char const *argv[])
     scanf("%d", &secondNumber);
 
     printf("First number: %d\n", firstNumber);
-    printf("Second number: %d\n", secondNumber);
+    printf("Second number: %d\n", secondNumber); 
     printf("Sum: %d\n", firstNumber + secondNumber);
 
+
+    // test aja
     return 0;
 }

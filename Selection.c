@@ -14,19 +14,19 @@ int main(int argc, char const *argv[])
     }
 
 
-    // int month = 1;
-    // switch (month)
-    // {
-    // case 1:
-    //     printf("Januari\n");
-    //     break;
-    // case 2:
-    //     printf("Februari\n");
-    //     break;
-    // default:
-    //     printf("Buka kalender\n");
-    //     break;
-    // }
+    int month = 1;
+    switch (month)
+    {
+    case 1:
+        printf("Januari\n");
+        break;
+    case 2:
+        printf("Februari\n");
+        break;
+    default:
+        printf("Buka kalender\n");
+        break;
+    }
 
     // switch (month)
     // {
